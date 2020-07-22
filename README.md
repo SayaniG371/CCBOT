@@ -1,2 +1,2 @@
 # CCBOT
-Career Counselling
+Career Counselling Bot
